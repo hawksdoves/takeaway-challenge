@@ -1,5 +1,5 @@
 require_relative 'customer_order'
-#require_relative 'message'
+require_relative 'message'
 
 class CompleteOrder
 
